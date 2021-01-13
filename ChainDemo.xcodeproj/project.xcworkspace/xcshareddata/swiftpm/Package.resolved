@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Chain",
+        "repositoryURL": "https://github.com/0xLeif/Chain",
+        "state": {
+          "branch": null,
+          "revision": "f094947a584e1597bc504601b09d8950cd16292e",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "SURL",
+        "repositoryURL": "https://github.com/0xLeif/SURL",
+        "state": {
+          "branch": null,
+          "revision": "2ad0e8a6b097334e9317b7e6ec94c701d946861f",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
